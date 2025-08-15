@@ -9,7 +9,7 @@
 - Support all OpenGApps variants except for aroma (aroma does not support x86_64, please use super instead)
 - Fix VPN dialog not showing (use our [VpnDialogs app](https://github.com/LSPosed/VpnDialogs))
 - Unattended installation
-- Automatically activates developers mode in Windows 11
+- Automatically activates developer mode in Windows 11
 - Update to new version while preserving data with one-click script
 - Merged all language packs
 - Support managing start menu icons (manually installing [WSAHelper](https://github.com/LSPosed/WSAHelper/releases/latest) to use this feature)
@@ -21,7 +21,7 @@ https://user-images.githubusercontent.com/5022927/145696886-e13ebfc1-ff25-4410-8
 ## Text Guide
 
 1. Star (if you like) and fork this repo (keep it PUBLIC, private repo is not supported)
-1. Go to the **Action** tab in your forked repo
+1. Go to the **Actions** tab in your forked repo
     ![Action Tab](https://docs.github.com/assets/images/help/repository/actions-tab.png)
 1. In the left sidebar, click the **Build WSA** workflow.
     ![Workflow](https://docs.github.com/assets/images/actions-select-workflow.png)
